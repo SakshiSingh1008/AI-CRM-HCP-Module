@@ -29,6 +29,9 @@ Tech Stack
 User → Chat → LangGraph → Tools → DB → UI Update
 
  Run Locally
+Create .env file:
+GROQ_API_KEY=your_api_key
+
 
  Backend
  venv\Scripts\activate
